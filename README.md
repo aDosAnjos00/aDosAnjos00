@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Alisson and I'm a aspiring fullstack developer, from Brasil.</p>
+<p align="left">My name is Alisson Dos Anjos and I'm a software enginner student in Universidade Católica do Salvador(UCSAL), from Salvador, Bahia, Brasil.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning python<br>🎯 Goals: become a fullstack developer<br>🎲 Fun fact: I'am Miles Morales.</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently studying software engineering at the Universidade Católica do Salvador<br>🎯 Goals: become a fullstack developer<br>🎲 Fun fact: I'am Miles Morales.</p>
 
 ###
 
