@@ -14,7 +14,7 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, futebol e musi
 
 ## 🌐 Vamos Conectar? | Let's Connect?
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alisson-dos-anjos) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aDosAnjos00) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dosanjos.05/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:adosanjos.dev@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/alisson-dos-anjos). [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aDosAnjos00) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dosanjos.05/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:adosanjos.dev@outlook.com)
 
 ## 🛠️ Tecnologias e Ferramentas | Tools and Languages
 ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
