@@ -20,12 +20,16 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, futebol e musi
 
 <p align="flex-start">
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgresql&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,trello,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,figma,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=trello,overleaf,&theme=light" /><br>
 </p>
 
 
 ## Estou estudando | I'm learning
 
+<p align="flex-start">
+  <img src="https://skillicons.dev/icons?i=aws,&theme=dark" /><br>
+</p>
 
 
 ## 📊 Estatísticas do GitHub | GitHub Stats
