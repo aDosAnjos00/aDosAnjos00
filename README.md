@@ -19,8 +19,8 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, futebol e musi
 ## 🛠️ Tecnologias e Ferramentas | Tools and Languages
 
 <p align="flex-start">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&theme=dark" /><br>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,trello&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,postgresql&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,trello,postman&theme=dark" />
 </p>
 
 
