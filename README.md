@@ -17,11 +17,16 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, futebol e musi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-dos-anjos) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aDosAnjos00) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dosanjos.05/) [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:adosanjos.dev@outlook.com)
 
 ## 🛠️ Tecnologias e Ferramentas | Tools and Languages
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql&theme=dark" /><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,idea,trello&theme=dark" />
+</p>
+
+
+## Estou estudando | I'm learning
+
+
 
 ## 📊 Estatísticas do GitHub | GitHub Stats
 ![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=aDosAnjos00&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aDosAnjos00&layout=compact&theme=radical)
