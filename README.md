@@ -3,12 +3,12 @@
 Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, futebol e music. Estou sempre em busca de novos desafios e aprendizados. | Welcome to my GitHub profile! I'm passionate about technology, football and music. I'm always looking for new challenges and learning.
 
 ##  Sobre Mim
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, Java, Python, Git e Git GitHub]**.
+- 🌱 Atualmente, estou Cursando Engenharia de Software(2/8) na **Universidade Católica do Salvador**.
 - 💼 Trabalho como **[Técinico Suporte TI I]** na **[Unifacs]**.
 - 💡 Tenho interesse em **[ Front-end , Back-end, Banco de dados, Desenvolvedor de aplicativos e softwares]**.
 
 ##  About Me
-- 🌱 I am currently improving my skills in **[Html, Css, JavaScript, Java, Python, Git and Git GitHub]**.
+- 🌱 I am currently studying Software Engineering (2/8) at **Universidade Católica do Salvador**.
 - 💼 I work as **[ Support Technician TI I]** at **[Unifacs]**.
 - 💡 I am interested in **[Front-end, Back-end, Database, Application and Software Developer]**.
 
