@@ -32,7 +32,4 @@ Bem-vindo ao meu perfil no GitHub! Sou apaixonado por tecnologia, futebol e musi
 </p>
 
 
-## 📊 Estatísticas do GitHub | GitHub Stats
-![Suas Estatísticas no GitHub](https://github-readme-stats.vercel.app/api?username=aDosAnjos00&show_icons=true&theme=radical) ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=aDosAnjos00&layout=compact&theme=radical)
-
 Obrigado por visitar o meu perfil! | Thank you for visit my profile! 😊
